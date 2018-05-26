@@ -1,9 +1,11 @@
-package com.kangzayd.likeinstagram
+package com.kangzayd.likeinstagram.old
 
 import android.os.Bundle
 import android.support.design.widget.BottomNavigationView
 import android.support.v4.app.Fragment
 import android.support.v7.app.AppCompatActivity
+import com.kangzayd.likeinstagram.BottomNavigationViewHelper
+import com.kangzayd.likeinstagram.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
